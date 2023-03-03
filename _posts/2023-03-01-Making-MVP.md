@@ -1,0 +1,2 @@
+This week we were working on the MVP version of our project. The programming part was harder than expected and until now we have only finished map generation and item generation. The most challenging part is designing how each object interact with each other. It takes a lot of time when we need to think about the scalability of our code. Hopefully we can have something to show next week.\
+![Game Preview](https://github.com/JackyBai0423/GameDev-Blog/blob/b893fea4ec2396eb5978ba93a227b8707a764ef5/Screenshot%202023-03-01%20025558.png)
