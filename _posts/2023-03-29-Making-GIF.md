@@ -1,0 +1,2 @@
+This week prof. Berland told us to make a gif and a youtube trailer for our game. I was responsible for the GIF. It took me some time to learn how to use the software, and it is sad that I need to pay to make a more complex GIF. So I decide to go short and simple. I used floor and shelf grid to fill out the background, and "Blitz", "Fizz", and "Andrew" to show how the game work. The GIF is not long, but I think it works good.\
+![GIF](https://github.com/JackyBai0423/GameDev-Blog/blob/706e1c9ea6f5cbb559b7880f0eb82ab29ee04d15/GD2.gif)
