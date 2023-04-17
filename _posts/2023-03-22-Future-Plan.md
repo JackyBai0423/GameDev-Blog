@@ -1,0 +1,1 @@
+This week we are trying to make some improvement on our MVP. The programmer made a start page. I think we gonna make some change to the map and increase the variety of characters in the following updates. Also I wrote a document about the plan for each roles. I think we are a little bit behind so we might need to work harder and meet regularly each week.
